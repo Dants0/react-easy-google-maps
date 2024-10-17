@@ -18,10 +18,10 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["maps", "google maps", "google", "integration", "easy map"],
+  "author": "Guilherme Dantas guilhermedantasgoes@gmail.com",
   "license": "ISC",
-  "description": "",
+  "description": "A component for react that provides integration with google maps. Install it, put the API key in the component and you're done.",
   "devDependencies": {
     "@chromatic-com/storybook": "^1.9.0",
     "@react-google-maps/api": "^2.20.3",
