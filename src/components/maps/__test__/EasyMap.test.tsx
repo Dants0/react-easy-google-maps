@@ -7,7 +7,7 @@ import { MapProvider } from '../MapProvider'; // Importa o MapProvider
 describe("EasyMap component", () => {
   it("should render the Google Map correctly", () => {
     render(
-      <MapProvider api_key="AIzaSyB0okfFEi6naGIy-RqOP1HQL6eJtw01mUk"> {/* Inclui o MapProvider */}
+      <MapProvider api_key="API_KEY">
         <EasyMap lat={2} lon={2} />
       </MapProvider>
     );
