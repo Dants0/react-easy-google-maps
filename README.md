@@ -1,3 +1,9 @@
+   <p align="center">
+      <img alt="more used language" src="https://img.shields.io/github/languages/top/Dants0/react-easy-google-maps?color=171717&labelColor=FFE000">
+      <img alt="used languages" src="https://img.shields.io/github/languages/count/Dants0/react-easy-google-maps?color=171717&labelColor=FFE000">
+      <img alt="last commit" src="https://img.shields.io/github/last-commit/Dants0/react-easy-google-maps?color=171717&labelColor=FFE000">
+      <img alt="stars" src="https://img.shields.io/github/stars/dants0/react-easy-google-maps?color=171717&labelColor=FFE000">
+  </p>  
 
 # React Easy Map
 
