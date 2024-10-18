@@ -42,6 +42,8 @@ export default MyComponent;
 
 ```
 
+## Donate
+[Stripe](https://buy.stripe.com/aEUeWF18Z6bS5uE7ss)
 
 ## Reference
 
@@ -57,8 +59,6 @@ export default MyComponent;
 
 [ISC](https://choosealicense.com/licenses/isc/)
 
-## Sponsor
-[Stripe](https://buy.stripe.com/aEUeWF18Z6bS5uE7ss)
 
 ## 🚀 About me
 I'm developer
