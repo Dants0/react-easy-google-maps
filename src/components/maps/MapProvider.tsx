@@ -4,7 +4,7 @@ import { Libraries, useJsApiLoader } from "@react-google-maps/api";
 
 export function MapProvider({ children, api_key  }: MapProviderProps) {
   const { isLoaded: scriptLoaded, loadError } = useJsApiLoader({
-    googleMapsApiKey:api_key,
+    googleMapsApiKey: api_key as string,
     libraries: libraries as Libraries,
   });
 
