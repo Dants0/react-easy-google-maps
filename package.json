@@ -1,6 +1,6 @@
 {
   "name": "react-easy-google-maps",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "type": "module",
   "main": "dist/index.cjs.js",
   "module": "dist/index.es.js",
@@ -8,6 +8,9 @@
   "files": [
     "/dist"
   ],
+  "sponsor": {
+    "url": "https://buy.stripe.com/aEUeWF18Z6bS5uE7ss"
+  },
   "scripts": {
     "test": "vitest run",
     "test-watch": "vitest",
