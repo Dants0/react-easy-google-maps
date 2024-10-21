@@ -52,7 +52,7 @@ export default MyComponent;
 
 ## Documentation
 
-[Documentação](https://link-da-documentação)
+[Documentação](https://www.npmjs.com/package/react-easy-google-maps)
 
 
 ## Licença
